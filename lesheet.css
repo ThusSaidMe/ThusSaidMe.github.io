@@ -1,5 +1,5 @@
 html {
-	text-align: center;
+	text-align:center;
 	font:16px arial;
 }
 body {
@@ -21,4 +21,19 @@ section {
 .mypic {
 	width:400px;
 	height:400px;
+}
+
+a {
+	color: hotpink;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	font-style: italic;
+	font-size: 16px;
+}
+
+h1 {
+	text-decoration: underline;
 }
