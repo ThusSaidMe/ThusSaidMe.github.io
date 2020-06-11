@@ -1,21 +1,22 @@
 html {
 	text-align:center;
 	font:16px arial;
+	color: white;
 }
 body {
 	padding: 1em;
-	background-color: white;
+	background-color: black;
 	/*background-image: url("pattern1.jpg");*/
 }
 
 header {
-	background-color: white;
+	background-color: black;
 	width: auto;
 	height: auto;
 }
 
 section {
-	background-color: white;
+	background-color: black;
 }
 
 .mypic {
