@@ -4,9 +4,8 @@ html {
 	color: white;
 }
 body {
-	padding: 1em;
+	padding: 20px;
 	background-color: black;
-	/*background-image: url("pattern1.jpg");*/
 }
 
 header {
@@ -20,8 +19,8 @@ section {
 }
 
 .mypic {
-	width:400px;
-	height:400px;
+	max-width:100%;
+	height:auto;
 }
 
 a {
